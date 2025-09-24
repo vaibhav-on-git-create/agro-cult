@@ -38,9 +38,12 @@ options' to explore :
 2) agro-coin a digital current of app , used to ease and secure national and internal payments
 
 Team name - Agro-cult
+--
 Leader - Vaibhav Jaiswal
+--
 
-Team memebers --
+Team memebers 
+--
 1) Vaibhav - core coder
 2) Priyesh - UI and presentation
 3) Arsuh - UI
