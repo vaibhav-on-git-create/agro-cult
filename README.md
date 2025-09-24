@@ -1,5 +1,15 @@
 # agro-cult
-AI driven software to help farmers increase their income
+AI driven software to help farmers increase their income.
+
+--
+Agro-Cult is revolutionizing the lives of Indian farmers by unlocking access to premium global markets, 
+enabling incomes up to 30% above MSP and breaking free from the cycle of debt and despair.
+With AI-powered Farmer GPT delivering personalized guidance on irrigation, fertilization, and finance—available via app and toll-free calls—farmers get expert help anytime. 
+The platform’s cutting-edge Groq API fuels an intelligent chatbot experience, 
+while PyQt6 crafts a sleek, hopeful UI that’s simple yet powerful. 
+
+Agro-Cult brings clarity, trust, and opportunity, transforming farming into a future-ready business for millions.
+--
 
 
 login credentials
